@@ -1,4 +1,4 @@
-API_TOKEN = '6627410421:AAFwSEpQnI2S_-vma0c5HlcIvyplznpclEk'
+API_TOKEN = 
 
 import telebot
 import csv
